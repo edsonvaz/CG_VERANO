@@ -50,8 +50,6 @@ To create this solution, we will implement:
 
 - [Download](https://unity.com/download)
 
-[Install Elixir](http://elixir-lang.org/install.html)
-
 ## Scopes
 
 1) Using 3d models
